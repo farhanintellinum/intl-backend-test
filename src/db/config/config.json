@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "Kampret190401",
-    "database": "test_intellinum",
-    "host": "localhost",
-    "dialect": "postgres"
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
   },
   "test": {
-    "username": "postgres",
-    "password": "Kampret190401",
-    "database": "test_intellinum",
-    "host": "localhost",
-    "dialect": "postgres"
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
   },
   "production": {
-    "username": "postgres",
-    "password": "Kampret190401",
-    "database": "test_intellinum",
-    "host": "localhost",
-    "dialect": "postgres"
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": ""
   }
 }
